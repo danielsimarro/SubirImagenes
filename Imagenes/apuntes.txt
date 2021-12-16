@@ -1,0 +1,4 @@
+
+tabla local: id, nombre, aforro, presupuesto
+
+tabla evento: id, idperformance, idlocal, fecha, precio
